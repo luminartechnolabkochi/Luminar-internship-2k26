@@ -1,0 +1,28 @@
+HTML[Hypertext markup language]
+
+tags
+
+<openingTag> </closingtag>
+
+<h1>hello </h1>
+
+.html => html_document
+.py => module 
+collection of module  =>package
+
+
+structure
+index.html
+<html>
+<head>
+    <title>  hello world </title>>
+</head>
+
+<body>
+
+
+
+</body>
+
+
+</html>
