@@ -1,0 +1,29 @@
+.card{
+    
+    border: 2px solid black;
+    width: 400px;
+    color: white;
+
+}
+
+
+.card > h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.bg-rcb{
+    background-color: #d6153f;
+}
+
+.bg-csk{
+    background-color: yellow;
+}
+
+.bg-mi{
+    background-color: blue;
+}
+
+
+

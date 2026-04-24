@@ -1,0 +1,17 @@
+m=> margin
+p=>padding
+t=>top
+b=>bottom
+s=>start
+e=>end
+
+mt-value[0-5]
+
+w=> width
+h=>height
+
+w-25=>width:25%
+w-50=>width:50%
+w-75=>width:75%
+w-100=>width:100%
+
